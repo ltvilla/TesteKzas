@@ -2,7 +2,7 @@ Teste Kzas:
 
 Seguir passo à passo para testar o projeto:
 
-1 - Ter o composer instalado
+1 - Ter o composer instalado<br>
 2 - git clone https://github.com/ltvilla/TesteKzas.git
 3 - composer install
 4 - php artisan db:seed (será gerado um usuário teste tiago@testekzas.com senha teste)
