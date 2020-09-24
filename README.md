@@ -7,5 +7,7 @@ Seguir passo à passo para testar o projeto:
 3 - rodar o comando no terminal <b>composer install</b><br>
 4 - rodar o comando no terminal <b>php artisan db:seed</b> (será gerado um usuário teste email: <b>tiago@testekzas.com</b> senha: <b>teste</b>)<br>
 5 - rodar o comando no terminal <b>php artisan storage:link</b> para que o upload seja realizado no public via storage link<br>
-5 - Para gerar informações aleatórias, você pode rodar o comando <b>php artisan db:seed --class=AddresseSeeder</b> (serão gerados alguns dados aleatórios)<br>
+6 - Para gerar informações aleatórias, você pode rodar o comando <b>php artisan db:seed --class=AddresseSeeder</b> (serão gerados alguns dados aleatórios)<br>
+7 - API PHP Puro <b>Rodar php -S localhost:8000</b><br>
+8 - 
 
